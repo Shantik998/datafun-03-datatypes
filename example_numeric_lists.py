@@ -1,5 +1,6 @@
 """
-
+Shanti Kandel
+Project 3 Data Analytics Fundamentals
 Examples of numeric lists
 
 VS Code Menu / View / Command Palette / Python Interpretor
