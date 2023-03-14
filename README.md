@@ -1,10 +1,9 @@
-""" datafun-03-datatypes
+"""datafun-03-datatypes
 Shanti_Kandel 
 Data Analysis Fundamentals Project 3 
 Domain : sales of shoes
 01/29/2023
  Practice with Python data types, filter(), map(), and list comprehensions
-
 """
  Task 1 - Fork this Repo
 
